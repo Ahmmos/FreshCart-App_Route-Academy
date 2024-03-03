@@ -75,15 +75,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-### tools 
+### tools Used
 
 ## formik
+used formik to create all forms inside the App
+
 ##  react-router-dom
+
+used to create and navigate between different pages inside the app
+
 ## bootstrap
+ used bootstarp for styling 
+
 ## Yup validation
+
+used Yup for the validation of the forms 
+
 ## slick
+
+used slick to create  carousel in home page
+
 ## axios
+Used Axios to handle all the Api's request
+
 ## fontawesome
+
+used for  icons
+
 ## JWT-decode
+used to decode the token
+
 ## react-query
+used for cashing the pages inside the app and refetch in the background
+
 ## react-toastify
+
+used to handle the  notifications inside the app 
